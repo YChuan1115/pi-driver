@@ -1,0 +1,5 @@
+
+#./dial <phone number>
+
+#./send-mms <phone number> <pic-file> <msg-title> <msg-file>
+

@@ -1,0 +1,435 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BCM2835_BLOCK_SIZE	bcm2835.h	407;"	d
+BCM2835_BSC0_BASE	bcm2835.h	351;"	d
+BCM2835_BSC1_BASE	bcm2835.h	355;"	d
+BCM2835_BSC_A	bcm2835.h	681;"	d
+BCM2835_BSC_C	bcm2835.h	678;"	d
+BCM2835_BSC_CLKT	bcm2835.h	685;"	d
+BCM2835_BSC_C_CLEAR_1	bcm2835.h	693;"	d
+BCM2835_BSC_C_CLEAR_2	bcm2835.h	694;"	d
+BCM2835_BSC_C_I2CEN	bcm2835.h	688;"	d
+BCM2835_BSC_C_INTD	bcm2835.h	691;"	d
+BCM2835_BSC_C_INTR	bcm2835.h	689;"	d
+BCM2835_BSC_C_INTT	bcm2835.h	690;"	d
+BCM2835_BSC_C_READ	bcm2835.h	695;"	d
+BCM2835_BSC_C_ST	bcm2835.h	692;"	d
+BCM2835_BSC_DEL	bcm2835.h	684;"	d
+BCM2835_BSC_DIV	bcm2835.h	683;"	d
+BCM2835_BSC_DLEN	bcm2835.h	680;"	d
+BCM2835_BSC_FIFO	bcm2835.h	682;"	d
+BCM2835_BSC_FIFO_SIZE	bcm2835.h	709;"	d
+BCM2835_BSC_S	bcm2835.h	679;"	d
+BCM2835_BSC_S_CLKT	bcm2835.h	698;"	d
+BCM2835_BSC_S_DONE	bcm2835.h	706;"	d
+BCM2835_BSC_S_ERR	bcm2835.h	699;"	d
+BCM2835_BSC_S_RXD	bcm2835.h	702;"	d
+BCM2835_BSC_S_RXF	bcm2835.h	700;"	d
+BCM2835_BSC_S_RXR	bcm2835.h	704;"	d
+BCM2835_BSC_S_TA	bcm2835.h	707;"	d
+BCM2835_BSC_S_TXD	bcm2835.h	703;"	d
+BCM2835_BSC_S_TXE	bcm2835.h	701;"	d
+BCM2835_BSC_S_TXW	bcm2835.h	705;"	d
+BCM2835_CLOCK_BASE	bcm2835.h	345;"	d
+BCM2835_CORE_CLK_HZ	bcm2835.h	335;"	d
+BCM2835_GPAFEN0	bcm2835.h	438;"	d
+BCM2835_GPAFEN1	bcm2835.h	439;"	d
+BCM2835_GPAREN0	bcm2835.h	436;"	d
+BCM2835_GPAREN1	bcm2835.h	437;"	d
+BCM2835_GPCLR0	bcm2835.h	422;"	d
+BCM2835_GPCLR1	bcm2835.h	423;"	d
+BCM2835_GPEDS0	bcm2835.h	426;"	d
+BCM2835_GPEDS1	bcm2835.h	427;"	d
+BCM2835_GPFEN0	bcm2835.h	430;"	d
+BCM2835_GPFEN1	bcm2835.h	431;"	d
+BCM2835_GPFSEL0	bcm2835.h	414;"	d
+BCM2835_GPFSEL1	bcm2835.h	415;"	d
+BCM2835_GPFSEL2	bcm2835.h	416;"	d
+BCM2835_GPFSEL3	bcm2835.h	417;"	d
+BCM2835_GPFSEL4	bcm2835.h	418;"	d
+BCM2835_GPFSEL5	bcm2835.h	419;"	d
+BCM2835_GPHEN0	bcm2835.h	432;"	d
+BCM2835_GPHEN1	bcm2835.h	433;"	d
+BCM2835_GPIO_BASE	bcm2835.h	347;"	d
+BCM2835_GPIO_FSEL_ALT0	bcm2835.h	/^    BCM2835_GPIO_FSEL_ALT0  = 0b100,   \/\/\/< Alternate function 0$/;"	e	enum:__anon2
+BCM2835_GPIO_FSEL_ALT1	bcm2835.h	/^    BCM2835_GPIO_FSEL_ALT1  = 0b101,   \/\/\/< Alternate function 1$/;"	e	enum:__anon2
+BCM2835_GPIO_FSEL_ALT2	bcm2835.h	/^    BCM2835_GPIO_FSEL_ALT2  = 0b110,   \/\/\/< Alternate function 2$/;"	e	enum:__anon2
+BCM2835_GPIO_FSEL_ALT3	bcm2835.h	/^    BCM2835_GPIO_FSEL_ALT3  = 0b111,   \/\/\/< Alternate function 3$/;"	e	enum:__anon2
+BCM2835_GPIO_FSEL_ALT4	bcm2835.h	/^    BCM2835_GPIO_FSEL_ALT4  = 0b011,   \/\/\/< Alternate function 4$/;"	e	enum:__anon2
+BCM2835_GPIO_FSEL_ALT5	bcm2835.h	/^    BCM2835_GPIO_FSEL_ALT5  = 0b010,   \/\/\/< Alternate function 5$/;"	e	enum:__anon2
+BCM2835_GPIO_FSEL_INPT	bcm2835.h	/^    BCM2835_GPIO_FSEL_INPT  = 0b000,   \/\/\/< Input$/;"	e	enum:__anon2
+BCM2835_GPIO_FSEL_MASK	bcm2835.h	/^    BCM2835_GPIO_FSEL_MASK  = 0b111    \/\/\/< Function select bits mask$/;"	e	enum:__anon2
+BCM2835_GPIO_FSEL_OUTP	bcm2835.h	/^    BCM2835_GPIO_FSEL_OUTP  = 0b001,   \/\/\/< Output$/;"	e	enum:__anon2
+BCM2835_GPIO_PADS	bcm2835.h	343;"	d
+BCM2835_GPIO_PUD_DOWN	bcm2835.h	/^    BCM2835_GPIO_PUD_DOWN    = 0b01,   \/\/\/< Enable Pull Down control$/;"	e	enum:__anon3
+BCM2835_GPIO_PUD_OFF	bcm2835.h	/^    BCM2835_GPIO_PUD_OFF     = 0b00,   \/\/\/< Off ? disable pull-up\/down$/;"	e	enum:__anon3
+BCM2835_GPIO_PUD_UP	bcm2835.h	/^    BCM2835_GPIO_PUD_UP      = 0b10    \/\/\/< Enable Pull Up control$/;"	e	enum:__anon3
+BCM2835_GPIO_PWM	bcm2835.h	353;"	d
+BCM2835_GPLEN0	bcm2835.h	434;"	d
+BCM2835_GPLEN1	bcm2835.h	435;"	d
+BCM2835_GPLEV0	bcm2835.h	424;"	d
+BCM2835_GPLEV1	bcm2835.h	425;"	d
+BCM2835_GPPUD	bcm2835.h	440;"	d
+BCM2835_GPPUDCLK0	bcm2835.h	441;"	d
+BCM2835_GPPUDCLK1	bcm2835.h	442;"	d
+BCM2835_GPREN0	bcm2835.h	428;"	d
+BCM2835_GPREN1	bcm2835.h	429;"	d
+BCM2835_GPSET0	bcm2835.h	420;"	d
+BCM2835_GPSET1	bcm2835.h	421;"	d
+BCM2835_H	bcm2835.h	320;"	d
+BCM2835_I2C_CLOCK_DIVIDER_148	bcm2835.h	/^    BCM2835_I2C_CLOCK_DIVIDER_148    = 148,       \/\/\/< 148 = 59ns = 1.689 MHz$/;"	e	enum:__anon10
+BCM2835_I2C_CLOCK_DIVIDER_150	bcm2835.h	/^    BCM2835_I2C_CLOCK_DIVIDER_150    = 150,       \/\/\/< 150 = 60ns = 1.666 MHz (default at reset)$/;"	e	enum:__anon10
+BCM2835_I2C_CLOCK_DIVIDER_2500	bcm2835.h	/^    BCM2835_I2C_CLOCK_DIVIDER_2500   = 2500,      \/\/\/< 2500 = 10us = 100 kHz$/;"	e	enum:__anon10
+BCM2835_I2C_CLOCK_DIVIDER_626	bcm2835.h	/^    BCM2835_I2C_CLOCK_DIVIDER_626    = 626,       \/\/\/< 622 = 2.504us = 399.3610 kHz$/;"	e	enum:__anon10
+BCM2835_I2C_REASON_ERROR_CLKT	bcm2835.h	/^    BCM2835_I2C_REASON_ERROR_CLKT    = 0x02,      \/\/\/< Received Clock Stretch Timeout$/;"	e	enum:__anon11
+BCM2835_I2C_REASON_ERROR_DATA	bcm2835.h	/^    BCM2835_I2C_REASON_ERROR_DATA    = 0x04,      \/\/\/< Not all data is sent \/ received$/;"	e	enum:__anon11
+BCM2835_I2C_REASON_ERROR_NACK	bcm2835.h	/^    BCM2835_I2C_REASON_ERROR_NACK    = 0x01,      \/\/\/< Received a NACK$/;"	e	enum:__anon11
+BCM2835_I2C_REASON_OK	bcm2835.h	/^    BCM2835_I2C_REASON_OK   	     = 0x00,      \/\/\/< Success$/;"	e	enum:__anon11
+BCM2835_PADS_GPIO_0_27	bcm2835.h	469;"	d
+BCM2835_PADS_GPIO_28_45	bcm2835.h	470;"	d
+BCM2835_PADS_GPIO_46_53	bcm2835.h	471;"	d
+BCM2835_PAD_DRIVE_10mA	bcm2835.h	481;"	d
+BCM2835_PAD_DRIVE_12mA	bcm2835.h	482;"	d
+BCM2835_PAD_DRIVE_14mA	bcm2835.h	483;"	d
+BCM2835_PAD_DRIVE_16mA	bcm2835.h	484;"	d
+BCM2835_PAD_DRIVE_2mA	bcm2835.h	477;"	d
+BCM2835_PAD_DRIVE_4mA	bcm2835.h	478;"	d
+BCM2835_PAD_DRIVE_6mA	bcm2835.h	479;"	d
+BCM2835_PAD_DRIVE_8mA	bcm2835.h	480;"	d
+BCM2835_PAD_GROUP_GPIO_0_27	bcm2835.h	/^    BCM2835_PAD_GROUP_GPIO_0_27         = 0, \/\/\/< Pad group for GPIO pads 0 to 27$/;"	e	enum:__anon4
+BCM2835_PAD_GROUP_GPIO_28_45	bcm2835.h	/^    BCM2835_PAD_GROUP_GPIO_28_45        = 1, \/\/\/< Pad group for GPIO pads 28 to 45$/;"	e	enum:__anon4
+BCM2835_PAD_GROUP_GPIO_46_53	bcm2835.h	/^    BCM2835_PAD_GROUP_GPIO_46_53        = 2  \/\/\/< Pad group for GPIO pads 46 to 53$/;"	e	enum:__anon4
+BCM2835_PAD_HYSTERESIS_ENABLED	bcm2835.h	476;"	d
+BCM2835_PAD_PASSWRD	bcm2835.h	474;"	d
+BCM2835_PAD_SLEW_RATE_UNLIMITED	bcm2835.h	475;"	d
+BCM2835_PAGE_SIZE	bcm2835.h	405;"	d
+BCM2835_PERI_BASE	bcm2835.h	339;"	d
+BCM2835_PWM0_DATA	bcm2835.h	754;"	d
+BCM2835_PWM0_ENABLE	bcm2835.h	779;"	d
+BCM2835_PWM0_MS_MODE	bcm2835.h	772;"	d
+BCM2835_PWM0_OFFSTATE	bcm2835.h	776;"	d
+BCM2835_PWM0_RANGE	bcm2835.h	753;"	d
+BCM2835_PWM0_REPEATFF	bcm2835.h	777;"	d
+BCM2835_PWM0_REVPOLAR	bcm2835.h	775;"	d
+BCM2835_PWM0_SERIAL	bcm2835.h	778;"	d
+BCM2835_PWM0_USEFIFO	bcm2835.h	774;"	d
+BCM2835_PWM1_DATA	bcm2835.h	757;"	d
+BCM2835_PWM1_ENABLE	bcm2835.h	770;"	d
+BCM2835_PWM1_MS_MODE	bcm2835.h	764;"	d
+BCM2835_PWM1_OFFSTATE	bcm2835.h	767;"	d
+BCM2835_PWM1_RANGE	bcm2835.h	756;"	d
+BCM2835_PWM1_REPEATFF	bcm2835.h	768;"	d
+BCM2835_PWM1_REVPOLAR	bcm2835.h	766;"	d
+BCM2835_PWM1_SERIAL	bcm2835.h	769;"	d
+BCM2835_PWM1_USEFIFO	bcm2835.h	765;"	d
+BCM2835_PWMCLK_CNTL	bcm2835.h	760;"	d
+BCM2835_PWMCLK_DIV	bcm2835.h	761;"	d
+BCM2835_PWM_CLEAR_FIFO	bcm2835.h	773;"	d
+BCM2835_PWM_CLOCK_DIVIDER_1	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_1     = 1,       \/\/\/< 1 = 4.6875kHz, same as divider 4096$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_1024	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_1024  = 1024,    \/\/\/< 1024 = 18.75kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_128	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_128   = 128,     \/\/\/< 128 = 150kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_16	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_16    = 16,      \/\/\/< 16 = 1.2MHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_16384	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_16384 = 16384,   \/\/\/< 16384 = 1171.8Hz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_2	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_2     = 2,       \/\/\/< 2 = 9.6MHz, fastest you can get$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_2048	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_2048  = 2048,    \/\/\/< 2048 = 9.375kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_256	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_256   = 256,     \/\/\/< 256 = 75kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_32	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_32    = 32,      \/\/\/< 32 = 600.0kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_32768	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_32768 = 32768,   \/\/\/< 32768 = 585Hz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_4	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_4     = 4,       \/\/\/< 4 = 4.8MHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_4096	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_4096  = 4096,    \/\/\/< 4096 = 4.6875kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_512	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_512   = 512,     \/\/\/< 512 = 37.5kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_64	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_64    = 64,      \/\/\/< 64 = 300kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_8	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_8     = 8,       \/\/\/< 8 = 2.4MHz$/;"	e	enum:__anon12
+BCM2835_PWM_CLOCK_DIVIDER_8192	bcm2835.h	/^    BCM2835_PWM_CLOCK_DIVIDER_8192  = 8192,    \/\/\/< 8192 = 2.34375kHz$/;"	e	enum:__anon12
+BCM2835_PWM_CONTROL	bcm2835.h	750;"	d
+BCM2835_PWM_DMAC	bcm2835.h	752;"	d
+BCM2835_PWM_FIF1	bcm2835.h	755;"	d
+BCM2835_PWM_PASSWRD	bcm2835.h	762;"	d
+BCM2835_PWM_STATUS	bcm2835.h	751;"	d
+BCM2835_REGBASE_BSC0	bcm2835.h	/^    BCM2835_REGBASE_BSC0 = 7, \/\/\/< Base of the BSC0 registers.$/;"	e	enum:__anon1
+BCM2835_REGBASE_BSC1	bcm2835.h	/^    BCM2835_REGBASE_BSC1 = 8 \/\/\/< Base of the BSC1 registers.$/;"	e	enum:__anon1
+BCM2835_REGBASE_CLK	bcm2835.h	/^    BCM2835_REGBASE_CLK  = 4, \/\/\/< Base of the CLK registers.$/;"	e	enum:__anon1
+BCM2835_REGBASE_GPIO	bcm2835.h	/^    BCM2835_REGBASE_GPIO = 2, \/\/\/< Base of the GPIO registers.$/;"	e	enum:__anon1
+BCM2835_REGBASE_PADS	bcm2835.h	/^    BCM2835_REGBASE_PADS = 5, \/\/\/< Base of the PADS registers.$/;"	e	enum:__anon1
+BCM2835_REGBASE_PWM	bcm2835.h	/^    BCM2835_REGBASE_PWM  = 3, \/\/\/< Base of the PWM registers.$/;"	e	enum:__anon1
+BCM2835_REGBASE_SPI0	bcm2835.h	/^    BCM2835_REGBASE_SPI0 = 6, \/\/\/< Base of the SPI0 registers.$/;"	e	enum:__anon1
+BCM2835_REGBASE_ST	bcm2835.h	/^    BCM2835_REGBASE_ST   = 1, \/\/\/< Base of the ST (System Timer) registers.$/;"	e	enum:__anon1
+BCM2835_SPI0_BASE	bcm2835.h	349;"	d
+BCM2835_SPI0_CLK	bcm2835.h	587;"	d
+BCM2835_SPI0_CS	bcm2835.h	585;"	d
+BCM2835_SPI0_CS_ADCS	bcm2835.h	607;"	d
+BCM2835_SPI0_CS_CLEAR	bcm2835.h	613;"	d
+BCM2835_SPI0_CS_CLEAR_RX	bcm2835.h	614;"	d
+BCM2835_SPI0_CS_CLEAR_TX	bcm2835.h	615;"	d
+BCM2835_SPI0_CS_CPHA	bcm2835.h	617;"	d
+BCM2835_SPI0_CS_CPOL	bcm2835.h	616;"	d
+BCM2835_SPI0_CS_CS	bcm2835.h	618;"	d
+BCM2835_SPI0_CS_CSPOL	bcm2835.h	612;"	d
+BCM2835_SPI0_CS_CSPOL0	bcm2835.h	597;"	d
+BCM2835_SPI0_CS_CSPOL1	bcm2835.h	596;"	d
+BCM2835_SPI0_CS_CSPOL2	bcm2835.h	595;"	d
+BCM2835_SPI0_CS_DMAEN	bcm2835.h	610;"	d
+BCM2835_SPI0_CS_DMA_LEN	bcm2835.h	594;"	d
+BCM2835_SPI0_CS_DONE	bcm2835.h	602;"	d
+BCM2835_SPI0_CS_INTD	bcm2835.h	609;"	d
+BCM2835_SPI0_CS_INTR	bcm2835.h	608;"	d
+BCM2835_SPI0_CS_LEN	bcm2835.h	605;"	d
+BCM2835_SPI0_CS_LEN_LONG	bcm2835.h	593;"	d
+BCM2835_SPI0_CS_LMONO	bcm2835.h	604;"	d
+BCM2835_SPI0_CS_REN	bcm2835.h	606;"	d
+BCM2835_SPI0_CS_RXD	bcm2835.h	601;"	d
+BCM2835_SPI0_CS_RXF	bcm2835.h	598;"	d
+BCM2835_SPI0_CS_RXR	bcm2835.h	599;"	d
+BCM2835_SPI0_CS_TA	bcm2835.h	611;"	d
+BCM2835_SPI0_CS_TE_EN	bcm2835.h	603;"	d
+BCM2835_SPI0_CS_TXD	bcm2835.h	600;"	d
+BCM2835_SPI0_DC	bcm2835.h	590;"	d
+BCM2835_SPI0_DLEN	bcm2835.h	588;"	d
+BCM2835_SPI0_FIFO	bcm2835.h	586;"	d
+BCM2835_SPI0_LTOH	bcm2835.h	589;"	d
+BCM2835_SPI_BIT_ORDER_LSBFIRST	bcm2835.h	/^    BCM2835_SPI_BIT_ORDER_LSBFIRST = 0,  \/\/\/< LSB First$/;"	e	enum:__anon6
+BCM2835_SPI_BIT_ORDER_MSBFIRST	bcm2835.h	/^    BCM2835_SPI_BIT_ORDER_MSBFIRST = 1   \/\/\/< MSB First$/;"	e	enum:__anon6
+BCM2835_SPI_CLOCK_DIVIDER_1	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_1     = 1,       \/\/\/< 1 = 262.144us = 3.814697260kHz, same as 0\/65536$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_1024	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_1024  = 1024,    \/\/\/< 1024 = 4.096us = 244.140625kHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_128	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_128   = 128,     \/\/\/< 128 = 512ns = = 1.953125MHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_16	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_16    = 16,      \/\/\/< 16 = 64ns = 15.625MHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_16384	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_16384 = 16384,   \/\/\/< 16384 = 65.536us = 15.25878906kHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_2	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_2     = 2,       \/\/\/< 2 = 8ns = 125MHz, fastest you can get$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_2048	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_2048  = 2048,    \/\/\/< 2048 = 8.192us = 122.0703125kHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_256	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_256   = 256,     \/\/\/< 256 = 1.024us = 976.5625MHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_32	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_32    = 32,      \/\/\/< 32 = 128ns = 7.8125MHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_32768	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_32768 = 32768,   \/\/\/< 32768 = 131.072us = 7.629394531kHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_4	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_4     = 4,       \/\/\/< 4 = 16ns = 62.5MHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_4096	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_4096  = 4096,    \/\/\/< 4096 = 16.384us = 61.03515625kHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_512	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_512   = 512,     \/\/\/< 512 = 2.048us = 488.28125kHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_64	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_64    = 64,      \/\/\/< 64 = 256ns = 3.90625MHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_65536	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_65536 = 0,       \/\/\/< 65536 = 262.144us = 3.814697260kHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_8	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_8     = 8,       \/\/\/< 8 = 32ns = 31.25MHz$/;"	e	enum:__anon9
+BCM2835_SPI_CLOCK_DIVIDER_8192	bcm2835.h	/^    BCM2835_SPI_CLOCK_DIVIDER_8192  = 8192,    \/\/\/< 8192 = 32.768us = 30\/51757813kHz$/;"	e	enum:__anon9
+BCM2835_SPI_CS0	bcm2835.h	/^    BCM2835_SPI_CS0 = 0,     \/\/\/< Chip Select 0$/;"	e	enum:__anon8
+BCM2835_SPI_CS1	bcm2835.h	/^    BCM2835_SPI_CS1 = 1,     \/\/\/< Chip Select 1$/;"	e	enum:__anon8
+BCM2835_SPI_CS2	bcm2835.h	/^    BCM2835_SPI_CS2 = 2,     \/\/\/< Chip Select 2 (ie pins CS1 and CS2 are asserted)$/;"	e	enum:__anon8
+BCM2835_SPI_CS_NONE	bcm2835.h	/^    BCM2835_SPI_CS_NONE = 3, \/\/\/< No CS, control it yourself$/;"	e	enum:__anon8
+BCM2835_SPI_MODE0	bcm2835.h	/^    BCM2835_SPI_MODE0 = 0,  \/\/\/< CPOL = 0, CPHA = 0$/;"	e	enum:__anon7
+BCM2835_SPI_MODE1	bcm2835.h	/^    BCM2835_SPI_MODE1 = 1,  \/\/\/< CPOL = 0, CPHA = 1$/;"	e	enum:__anon7
+BCM2835_SPI_MODE2	bcm2835.h	/^    BCM2835_SPI_MODE2 = 2,  \/\/\/< CPOL = 1, CPHA = 0$/;"	e	enum:__anon7
+BCM2835_SPI_MODE3	bcm2835.h	/^    BCM2835_SPI_MODE3 = 3,  \/\/\/< CPOL = 1, CPHA = 1$/;"	e	enum:__anon7
+BCM2835_ST_BASE	bcm2835.h	341;"	d
+BCM2835_ST_CHI	bcm2835.h	744;"	d
+BCM2835_ST_CLO	bcm2835.h	743;"	d
+BCM2835_ST_CS	bcm2835.h	742;"	d
+CC	Makefile	/^CC=gcc$/;"	m
+CFLAG	Makefile	/^CFLAG=-lbcm2835$/;"	m
+HIGH	bcm2835.h	330;"	d
+INC	Makefile	/^INC=-I.\/$/;"	m
+LOW	bcm2835.h	332;"	d
+MOTOR_CLOCKWISE	motor_dev.h	7;"	d
+MOTOR_COUNTERCLOCKWISE	motor_dev.h	8;"	d
+MOTOR_DEV_H	motor_dev.h	2;"	d
+PCA9685_PWM_FREQUENCY	pca9685.h	24;"	d
+PCA9685_REG_ALL_LED_OFF_H	pca9685.h	23;"	d
+PCA9685_REG_ALL_LED_OFF_L	pca9685.h	22;"	d
+PCA9685_REG_ALL_LED_ON_H	pca9685.h	21;"	d
+PCA9685_REG_ALL_LED_ON_L	pca9685.h	20;"	d
+PCA9685_REG_LED0_OFF_H	pca9685.h	19;"	d
+PCA9685_REG_LED0_OFF_L	pca9685.h	18;"	d
+PCA9685_REG_LED0_ON_H	pca9685.h	17;"	d
+PCA9685_REG_LED0_ON_L	pca9685.h	16;"	d
+PCA9685_REG_MODE1	pca9685.h	10;"	d
+PCA9685_REG_MODE2	pca9685.h	11;"	d
+PCA9685_REG_PRESCALE	pca9685.h	15;"	d
+PCA9685_REG_SUBADR1	pca9685.h	12;"	d
+PCA9685_REG_SUBADR2	pca9685.h	13;"	d
+PCA9685_REG_SUBADR3	pca9685.h	14;"	d
+RPI_BPLUS_GPIO_J8_03	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_03     =  2,  \/\/\/< B+, Pin J8-03$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_05	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_05     =  3,  \/\/\/< B+, Pin J8-05$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_07	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_07     =  4,  \/\/\/< B+, Pin J8-07$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_08	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_08     = 14,  \/\/\/< B+, Pin J8-08, defaults to alt function 0 UART0_TXD$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_10	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_10     = 15,  \/\/\/< B+, Pin J8-10, defaults to alt function 0 UART0_RXD$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_11	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_11     = 17,  \/\/\/< B+, Pin J8-11$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_12	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_12     = 18,  \/\/\/< B+, Pin J8-12, can be PWM channel 0 in ALT FUN 5$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_13	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_13     = 27,  \/\/\/< B+, Pin J8-13$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_15	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_15     = 22,  \/\/\/< B+, Pin J8-15$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_16	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_16     = 23,  \/\/\/< B+, Pin J8-16$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_18	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_18     = 24,  \/\/\/< B+, Pin J8-18$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_19	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_19     = 10,  \/\/\/< B+, Pin J8-19, MOSI when SPI0 in use$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_21	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_21     =  9,  \/\/\/< B+, Pin J8-21, MISO when SPI0 in use$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_22	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_22     = 25,  \/\/\/< B+, Pin J8-22$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_23	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_23     = 11,  \/\/\/< B+, Pin J8-23, CLK when SPI0 in use$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_24	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_24     =  8,  \/\/\/< B+, Pin J8-24, CE0 when SPI0 in use$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_26	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_26     =  7,  \/\/\/< B+, Pin J8-26, CE1 when SPI0 in use$/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_29	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_29     =  5,  \/\/\/< B+, Pin J8-29, $/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_31	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_31     =  6,  \/\/\/< B+, Pin J8-31, $/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_32	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_32     =  12, \/\/\/< B+, Pin J8-32, $/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_33	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_33     =  13, \/\/\/< B+, Pin J8-33, $/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_35	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_35     =  19, \/\/\/< B+, Pin J8-35, $/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_36	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_36     =  16, \/\/\/< B+, Pin J8-36, $/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_37	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_37     =  26, \/\/\/< B+, Pin J8-37, $/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_38	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_38     =  20, \/\/\/< B+, Pin J8-38, $/;"	e	enum:__anon5
+RPI_BPLUS_GPIO_J8_40	bcm2835.h	/^    RPI_BPLUS_GPIO_J8_40     =  21, \/\/\/< B+, Pin J8-40, $/;"	e	enum:__anon5
+RPI_GPIO_P1_03	bcm2835.h	/^    RPI_GPIO_P1_03        =  0,  \/\/\/< Version 1, Pin P1-03$/;"	e	enum:__anon5
+RPI_GPIO_P1_05	bcm2835.h	/^    RPI_GPIO_P1_05        =  1,  \/\/\/< Version 1, Pin P1-05$/;"	e	enum:__anon5
+RPI_GPIO_P1_07	bcm2835.h	/^    RPI_GPIO_P1_07        =  4,  \/\/\/< Version 1, Pin P1-07$/;"	e	enum:__anon5
+RPI_GPIO_P1_08	bcm2835.h	/^    RPI_GPIO_P1_08        = 14,  \/\/\/< Version 1, Pin P1-08, defaults to alt function 0 UART0_TXD$/;"	e	enum:__anon5
+RPI_GPIO_P1_10	bcm2835.h	/^    RPI_GPIO_P1_10        = 15,  \/\/\/< Version 1, Pin P1-10, defaults to alt function 0 UART0_RXD$/;"	e	enum:__anon5
+RPI_GPIO_P1_11	bcm2835.h	/^    RPI_GPIO_P1_11        = 17,  \/\/\/< Version 1, Pin P1-11$/;"	e	enum:__anon5
+RPI_GPIO_P1_12	bcm2835.h	/^    RPI_GPIO_P1_12        = 18,  \/\/\/< Version 1, Pin P1-12, can be PWM channel 0 in ALT FUN 5$/;"	e	enum:__anon5
+RPI_GPIO_P1_13	bcm2835.h	/^    RPI_GPIO_P1_13        = 21,  \/\/\/< Version 1, Pin P1-13$/;"	e	enum:__anon5
+RPI_GPIO_P1_15	bcm2835.h	/^    RPI_GPIO_P1_15        = 22,  \/\/\/< Version 1, Pin P1-15$/;"	e	enum:__anon5
+RPI_GPIO_P1_16	bcm2835.h	/^    RPI_GPIO_P1_16        = 23,  \/\/\/< Version 1, Pin P1-16$/;"	e	enum:__anon5
+RPI_GPIO_P1_18	bcm2835.h	/^    RPI_GPIO_P1_18        = 24,  \/\/\/< Version 1, Pin P1-18$/;"	e	enum:__anon5
+RPI_GPIO_P1_19	bcm2835.h	/^    RPI_GPIO_P1_19        = 10,  \/\/\/< Version 1, Pin P1-19, MOSI when SPI0 in use$/;"	e	enum:__anon5
+RPI_GPIO_P1_21	bcm2835.h	/^    RPI_GPIO_P1_21        =  9,  \/\/\/< Version 1, Pin P1-21, MISO when SPI0 in use$/;"	e	enum:__anon5
+RPI_GPIO_P1_22	bcm2835.h	/^    RPI_GPIO_P1_22        = 25,  \/\/\/< Version 1, Pin P1-22$/;"	e	enum:__anon5
+RPI_GPIO_P1_23	bcm2835.h	/^    RPI_GPIO_P1_23        = 11,  \/\/\/< Version 1, Pin P1-23, CLK when SPI0 in use$/;"	e	enum:__anon5
+RPI_GPIO_P1_24	bcm2835.h	/^    RPI_GPIO_P1_24        =  8,  \/\/\/< Version 1, Pin P1-24, CE0 when SPI0 in use$/;"	e	enum:__anon5
+RPI_GPIO_P1_26	bcm2835.h	/^    RPI_GPIO_P1_26        =  7,  \/\/\/< Version 1, Pin P1-26, CE1 when SPI0 in use$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_03	bcm2835.h	/^    RPI_V2_GPIO_P1_03     =  2,  \/\/\/< Version 2, Pin P1-03$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_05	bcm2835.h	/^    RPI_V2_GPIO_P1_05     =  3,  \/\/\/< Version 2, Pin P1-05$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_07	bcm2835.h	/^    RPI_V2_GPIO_P1_07     =  4,  \/\/\/< Version 2, Pin P1-07$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_08	bcm2835.h	/^    RPI_V2_GPIO_P1_08     = 14,  \/\/\/< Version 2, Pin P1-08, defaults to alt function 0 UART0_TXD$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_10	bcm2835.h	/^    RPI_V2_GPIO_P1_10     = 15,  \/\/\/< Version 2, Pin P1-10, defaults to alt function 0 UART0_RXD$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_11	bcm2835.h	/^    RPI_V2_GPIO_P1_11     = 17,  \/\/\/< Version 2, Pin P1-11$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_12	bcm2835.h	/^    RPI_V2_GPIO_P1_12     = 18,  \/\/\/< Version 2, Pin P1-12, can be PWM channel 0 in ALT FUN 5$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_13	bcm2835.h	/^    RPI_V2_GPIO_P1_13     = 27,  \/\/\/< Version 2, Pin P1-13$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_15	bcm2835.h	/^    RPI_V2_GPIO_P1_15     = 22,  \/\/\/< Version 2, Pin P1-15$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_16	bcm2835.h	/^    RPI_V2_GPIO_P1_16     = 23,  \/\/\/< Version 2, Pin P1-16$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_18	bcm2835.h	/^    RPI_V2_GPIO_P1_18     = 24,  \/\/\/< Version 2, Pin P1-18$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_19	bcm2835.h	/^    RPI_V2_GPIO_P1_19     = 10,  \/\/\/< Version 2, Pin P1-19, MOSI when SPI0 in use$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_21	bcm2835.h	/^    RPI_V2_GPIO_P1_21     =  9,  \/\/\/< Version 2, Pin P1-21, MISO when SPI0 in use$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_22	bcm2835.h	/^    RPI_V2_GPIO_P1_22     = 25,  \/\/\/< Version 2, Pin P1-22$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_23	bcm2835.h	/^    RPI_V2_GPIO_P1_23     = 11,  \/\/\/< Version 2, Pin P1-23, CLK when SPI0 in use$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_24	bcm2835.h	/^    RPI_V2_GPIO_P1_24     =  8,  \/\/\/< Version 2, Pin P1-24, CE0 when SPI0 in use$/;"	e	enum:__anon5
+RPI_V2_GPIO_P1_26	bcm2835.h	/^    RPI_V2_GPIO_P1_26     =  7,  \/\/\/< Version 2, Pin P1-26, CE1 when SPI0 in use$/;"	e	enum:__anon5
+RPI_V2_GPIO_P5_03	bcm2835.h	/^    RPI_V2_GPIO_P5_03     = 28,  \/\/\/< Version 2, Pin P5-03$/;"	e	enum:__anon5
+RPI_V2_GPIO_P5_04	bcm2835.h	/^    RPI_V2_GPIO_P5_04     = 29,  \/\/\/< Version 2, Pin P5-04$/;"	e	enum:__anon5
+RPI_V2_GPIO_P5_05	bcm2835.h	/^    RPI_V2_GPIO_P5_05     = 30,  \/\/\/< Version 2, Pin P5-05$/;"	e	enum:__anon5
+RPI_V2_GPIO_P5_06	bcm2835.h	/^    RPI_V2_GPIO_P5_06     = 31,  \/\/\/< Version 2, Pin P5-06$/;"	e	enum:__anon5
+RPiGPIOPin	bcm2835.h	/^} RPiGPIOPin;$/;"	t	typeref:enum:__anon5
+__LIBIT_I2C_H	libit_i2c.h	2;"	d
+__PCA9685_H	pca9685.h	2;"	d
+angle_max	motor_dev.h	/^	float    angle_max;$/;"	m	struct:servo_device
+angle_min	motor_dev.h	/^	float    angle_min;$/;"	m	struct:servo_device
+angle_origin	motor_dev.h	/^	float    angle_origin;$/;"	m	struct:servo_device
+angle_position	motor_dev.h	/^	float    angle_position;$/;"	m	struct:servo_device
+bcm2835FunctionSelect	bcm2835.h	/^} bcm2835FunctionSelect;$/;"	t	typeref:enum:__anon2
+bcm2835I2CClockDivider	bcm2835.h	/^} bcm2835I2CClockDivider;$/;"	t	typeref:enum:__anon10
+bcm2835I2CReasonCodes	bcm2835.h	/^} bcm2835I2CReasonCodes;$/;"	t	typeref:enum:__anon11
+bcm2835PUDControl	bcm2835.h	/^} bcm2835PUDControl;$/;"	t	typeref:enum:__anon3
+bcm2835PWMClockDivider	bcm2835.h	/^} bcm2835PWMClockDivider;$/;"	t	typeref:enum:__anon12
+bcm2835PadGroup	bcm2835.h	/^} bcm2835PadGroup;$/;"	t	typeref:enum:__anon4
+bcm2835RegisterBase	bcm2835.h	/^} bcm2835RegisterBase;$/;"	t	typeref:enum:__anon1
+bcm2835SPIBitOrder	bcm2835.h	/^}bcm2835SPIBitOrder;$/;"	t	typeref:enum:__anon6
+bcm2835SPIChipSelect	bcm2835.h	/^} bcm2835SPIChipSelect;$/;"	t	typeref:enum:__anon8
+bcm2835SPIClockDivider	bcm2835.h	/^} bcm2835SPIClockDivider;$/;"	t	typeref:enum:__anon9
+bcm2835SPIMode	bcm2835.h	/^}bcm2835SPIMode;$/;"	t	typeref:enum:__anon7
+bcm2835_bsc0	bcm2835.c	/^volatile uint32_t *bcm2835_bsc0 = (volatile uint32_t *)MAP_FAILED;$/;"	v
+bcm2835_bsc1	bcm2835.c	/^volatile uint32_t *bcm2835_bsc1 = (volatile uint32_t *)MAP_FAILED;$/;"	v
+bcm2835_clk	bcm2835.c	/^volatile uint32_t *bcm2835_clk  = (volatile uint32_t *)MAP_FAILED;$/;"	v
+bcm2835_close	bcm2835.c	/^int bcm2835_close(void)$/;"	f
+bcm2835_delay	bcm2835.c	/^void bcm2835_delay(unsigned int millis)$/;"	f
+bcm2835_delayMicroseconds	bcm2835.c	/^void bcm2835_delayMicroseconds(uint64_t micros)$/;"	f
+bcm2835_gpio	bcm2835.c	/^volatile uint32_t *bcm2835_gpio = (volatile uint32_t *)MAP_FAILED;$/;"	v
+bcm2835_gpio_afen	bcm2835.c	/^void bcm2835_gpio_afen(uint8_t pin)$/;"	f
+bcm2835_gpio_aren	bcm2835.c	/^void bcm2835_gpio_aren(uint8_t pin)$/;"	f
+bcm2835_gpio_clr	bcm2835.c	/^void bcm2835_gpio_clr(uint8_t pin)$/;"	f
+bcm2835_gpio_clr_afen	bcm2835.c	/^void bcm2835_gpio_clr_afen(uint8_t pin)$/;"	f
+bcm2835_gpio_clr_aren	bcm2835.c	/^void bcm2835_gpio_clr_aren(uint8_t pin)$/;"	f
+bcm2835_gpio_clr_fen	bcm2835.c	/^void bcm2835_gpio_clr_fen(uint8_t pin)$/;"	f
+bcm2835_gpio_clr_hen	bcm2835.c	/^void bcm2835_gpio_clr_hen(uint8_t pin)$/;"	f
+bcm2835_gpio_clr_len	bcm2835.c	/^void bcm2835_gpio_clr_len(uint8_t pin)$/;"	f
+bcm2835_gpio_clr_multi	bcm2835.c	/^void bcm2835_gpio_clr_multi(uint32_t mask)$/;"	f
+bcm2835_gpio_clr_ren	bcm2835.c	/^void bcm2835_gpio_clr_ren(uint8_t pin)$/;"	f
+bcm2835_gpio_eds	bcm2835.c	/^uint8_t bcm2835_gpio_eds(uint8_t pin)$/;"	f
+bcm2835_gpio_fen	bcm2835.c	/^void bcm2835_gpio_fen(uint8_t pin)$/;"	f
+bcm2835_gpio_fsel	bcm2835.c	/^void bcm2835_gpio_fsel(uint8_t pin, uint8_t mode)$/;"	f
+bcm2835_gpio_hen	bcm2835.c	/^void bcm2835_gpio_hen(uint8_t pin)$/;"	f
+bcm2835_gpio_len	bcm2835.c	/^void bcm2835_gpio_len(uint8_t pin)$/;"	f
+bcm2835_gpio_lev	bcm2835.c	/^uint8_t bcm2835_gpio_lev(uint8_t pin)$/;"	f
+bcm2835_gpio_pad	bcm2835.c	/^uint32_t bcm2835_gpio_pad(uint8_t group)$/;"	f
+bcm2835_gpio_pud	bcm2835.c	/^void bcm2835_gpio_pud(uint8_t pud)$/;"	f
+bcm2835_gpio_pudclk	bcm2835.c	/^void bcm2835_gpio_pudclk(uint8_t pin, uint8_t on)$/;"	f
+bcm2835_gpio_ren	bcm2835.c	/^void bcm2835_gpio_ren(uint8_t pin)$/;"	f
+bcm2835_gpio_set	bcm2835.c	/^void bcm2835_gpio_set(uint8_t pin)$/;"	f
+bcm2835_gpio_set_eds	bcm2835.c	/^void bcm2835_gpio_set_eds(uint8_t pin)$/;"	f
+bcm2835_gpio_set_multi	bcm2835.c	/^void bcm2835_gpio_set_multi(uint32_t mask)$/;"	f
+bcm2835_gpio_set_pad	bcm2835.c	/^void bcm2835_gpio_set_pad(uint8_t group, uint32_t control)$/;"	f
+bcm2835_gpio_set_pud	bcm2835.c	/^void bcm2835_gpio_set_pud(uint8_t pin, uint8_t pud)$/;"	f
+bcm2835_gpio_write	bcm2835.c	/^void bcm2835_gpio_write(uint8_t pin, uint8_t on)$/;"	f
+bcm2835_gpio_write_mask	bcm2835.c	/^void bcm2835_gpio_write_mask(uint32_t value, uint32_t mask)$/;"	f
+bcm2835_gpio_write_multi	bcm2835.c	/^void bcm2835_gpio_write_multi(uint32_t mask, uint8_t on)$/;"	f
+bcm2835_i2c_begin	bcm2835.c	/^void bcm2835_i2c_begin(void)$/;"	f
+bcm2835_i2c_end	bcm2835.c	/^void bcm2835_i2c_end(void)$/;"	f
+bcm2835_i2c_read	bcm2835.c	/^uint8_t bcm2835_i2c_read(char* buf, uint32_t len)$/;"	f
+bcm2835_i2c_read_register_rs	bcm2835.c	/^uint8_t bcm2835_i2c_read_register_rs(char* regaddr, char* buf, uint32_t len)$/;"	f
+bcm2835_i2c_setClockDivider	bcm2835.c	/^void bcm2835_i2c_setClockDivider(uint16_t divider)$/;"	f
+bcm2835_i2c_setSlaveAddress	bcm2835.c	/^void bcm2835_i2c_setSlaveAddress(uint8_t addr)$/;"	f
+bcm2835_i2c_set_baudrate	bcm2835.c	/^void bcm2835_i2c_set_baudrate(uint32_t baudrate)$/;"	f
+bcm2835_i2c_write	bcm2835.c	/^uint8_t bcm2835_i2c_write(const char * buf, uint32_t len)$/;"	f
+bcm2835_i2c_write_read_rs	bcm2835.c	/^uint8_t bcm2835_i2c_write_read_rs(char* cmds, uint32_t cmds_len, char* buf, uint32_t buf_len)$/;"	f
+bcm2835_init	bcm2835.c	/^int bcm2835_init(void)$/;"	f
+bcm2835_pads	bcm2835.c	/^volatile uint32_t *bcm2835_pads = (volatile uint32_t *)MAP_FAILED;$/;"	v
+bcm2835_peri_read	bcm2835.c	/^uint32_t bcm2835_peri_read(volatile uint32_t* paddr)$/;"	f
+bcm2835_peri_read_nb	bcm2835.c	/^uint32_t bcm2835_peri_read_nb(volatile uint32_t* paddr)$/;"	f
+bcm2835_peri_set_bits	bcm2835.c	/^void bcm2835_peri_set_bits(volatile uint32_t* paddr, uint32_t value, uint32_t mask)$/;"	f
+bcm2835_peri_write	bcm2835.c	/^void bcm2835_peri_write(volatile uint32_t* paddr, uint32_t value)$/;"	f
+bcm2835_peri_write_nb	bcm2835.c	/^void bcm2835_peri_write_nb(volatile uint32_t* paddr, uint32_t value)$/;"	f
+bcm2835_pwm	bcm2835.c	/^volatile uint32_t *bcm2835_pwm  = (volatile uint32_t *)MAP_FAILED;$/;"	v
+bcm2835_pwm_set_clock	bcm2835.c	/^void bcm2835_pwm_set_clock(uint32_t divisor)$/;"	f
+bcm2835_pwm_set_data	bcm2835.c	/^void bcm2835_pwm_set_data(uint8_t channel, uint32_t data)$/;"	f
+bcm2835_pwm_set_mode	bcm2835.c	/^void bcm2835_pwm_set_mode(uint8_t channel, uint8_t markspace, uint8_t enabled)$/;"	f
+bcm2835_pwm_set_range	bcm2835.c	/^void bcm2835_pwm_set_range(uint8_t channel, uint32_t range)$/;"	f
+bcm2835_regbase	bcm2835.c	/^uint32_t* bcm2835_regbase(uint8_t regbase)$/;"	f
+bcm2835_set_debug	bcm2835.c	/^void  bcm2835_set_debug(uint8_t d)$/;"	f
+bcm2835_spi0	bcm2835.c	/^volatile uint32_t *bcm2835_spi0 = (volatile uint32_t *)MAP_FAILED;$/;"	v
+bcm2835_spi_begin	bcm2835.c	/^void bcm2835_spi_begin(void)$/;"	f
+bcm2835_spi_chipSelect	bcm2835.c	/^void bcm2835_spi_chipSelect(uint8_t cs)$/;"	f
+bcm2835_spi_end	bcm2835.c	/^void bcm2835_spi_end(void)$/;"	f
+bcm2835_spi_setBitOrder	bcm2835.c	/^void bcm2835_spi_setBitOrder(uint8_t order)$/;"	f
+bcm2835_spi_setChipSelectPolarity	bcm2835.c	/^void bcm2835_spi_setChipSelectPolarity(uint8_t cs, uint8_t active)$/;"	f
+bcm2835_spi_setClockDivider	bcm2835.c	/^void bcm2835_spi_setClockDivider(uint16_t divider)$/;"	f
+bcm2835_spi_setDataMode	bcm2835.c	/^void bcm2835_spi_setDataMode(uint8_t mode)$/;"	f
+bcm2835_spi_transfer	bcm2835.c	/^uint8_t bcm2835_spi_transfer(uint8_t value)$/;"	f
+bcm2835_spi_transfern	bcm2835.c	/^void bcm2835_spi_transfern(char* buf, uint32_t len)$/;"	f
+bcm2835_spi_transfernb	bcm2835.c	/^void bcm2835_spi_transfernb(char* tbuf, char* rbuf, uint32_t len)$/;"	f
+bcm2835_spi_writenb	bcm2835.c	/^void bcm2835_spi_writenb(char* tbuf, uint32_t len)$/;"	f
+bcm2835_st	bcm2835.c	/^volatile uint32_t *bcm2835_st	= (volatile uint32_t *)MAP_FAILED;$/;"	v
+bcm2835_st_delay	bcm2835.c	/^void bcm2835_st_delay(uint64_t offset_micros, uint64_t micros)$/;"	f
+bcm2835_st_read	bcm2835.c	/^uint64_t bcm2835_st_read(void)$/;"	f
+channel	motor_dev.h	/^	uint8_t  channel;$/;"	m	struct:servo_device
+debug	bcm2835.c	/^static uint8_t debug = 0;$/;"	v	file:
+delay	bcm2835.h	808;"	d
+delayMicroseconds	bcm2835.h	809;"	d
+direction	motor_dev.h	/^	int8_t   direction;$/;"	m	struct:servo_device
+i2c_addr	motor_dev.h	/^	uint8_t  i2c_addr;$/;"	m	struct:servo_device
+i2c_byte_wait_us	bcm2835.c	/^static int i2c_byte_wait_us = 0;$/;"	v	file:
+i2c_end	libit_i2c.c	/^void i2c_end()$/;"	f
+i2c_init	libit_i2c.c	/^uint8_t i2c_init()$/;"	f
+i2c_read_reg_byte	libit_i2c.c	/^uint8_t i2c_read_reg_byte(uint8_t slave_addr,uint8_t reg)$/;"	f
+i2c_write_reg_byte	libit_i2c.c	/^void i2c_write_reg_byte(uint8_t slave_addr, uint8_t reg, uint8_t data)$/;"	f
+is_limited	motor_dev.h	/^	int      is_limited;$/;"	m	struct:servo_device
+main	bcm2835.c	/^int main(int argc, char **argv)$/;"	f
+main	test.c	/^int main(int argc,char *argv[]){$/;"	f
+malloc_aligned	bcm2835.c	/^void *malloc_aligned(size_t size)$/;"	f
+mapmem	bcm2835.c	/^static void *mapmem(const char *msg, size_t size, int fd, off_t off)$/;"	f	file:
+pca9685_delay_1ms	pca9685.c	/^void pca9685_delay_1ms(long int count){$/;"	f
+pca9685_init	pca9685.c	/^int pca9685_init(uint8_t slave_addr, long freq){$/;"	f
+pca9685_read_ch	pca9685.c	/^void pca9685_read_ch(uint8_t slave_addr, uint8_t ch, uint16_t * _on, uint16_t * _off){$/;"	f
+pca9685_reset	pca9685.c	/^void pca9685_reset(uint8_t slave_addr){$/;"	f
+pca9685_setDutyCycle	pca9685.c	/^void pca9685_setDutyCycle(uint8_t slave_addr,uint8_t channel, float duty_cycle){$/;"	f
+pca9685_setPWMChannel	pca9685.c	/^void pca9685_setPWMChannel(uint8_t slave_addr,uint8_t channel, uint16_t on, uint16_t off){$/;"	f
+pca9685_setPWMFreq	pca9685.c	/^void pca9685_setPWMFreq(uint8_t slave_addr, long _freq){$/;"	f
+pca9685_setPrescale	pca9685.c	/^void pca9685_setPrescale(uint8_t slave_addr, uint8_t pre_scale){$/;"	f
+pca9685_sleep	pca9685.c	/^void pca9685_sleep(uint8_t slave_addr){$/;"	f
+pca9685_wakeup	pca9685.c	/^void pca9685_wakeup(uint8_t slave_addr){$/;"	f
+pwm_angle_ratio	motor_dev.h	/^	float    pwm_angle_ratio; \/\/ in percentage$/;"	m	struct:servo_device
+pwm_origin	motor_dev.h	/^	uint32_t pwm_origin;$/;"	m	struct:servo_device
+pwm_period	motor_dev.h	/^	uint32_t pwm_period;  \/\/ in micro second$/;"	m	struct:servo_device
+servo_device	motor_dev.h	/^struct servo_device {$/;"	s
+servo_init	motor_dev.c	/^void servo_init(struct servo_device *servo, uint8_t  i2c_addr, uint8_t  channel)$/;"	f
+servo_run	motor_dev.c	/^void servo_run(struct servo_device *servo)$/;"	f
+unmapmem	bcm2835.c	/^static void unmapmem(void **pmem, size_t size)$/;"	f	file:
